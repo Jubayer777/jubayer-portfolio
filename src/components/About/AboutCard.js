@@ -9,7 +9,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Jubayer Al Alam </span>
+            Hi, I am <span className="purple">Jubayer Al Alam </span>
             from <span className="purple"> Dhaka, Bangladesh.</span>
             <br />A goal getter, self-motivated as well as creative and ambitious IT professional with strong analytical skills and proven track record of exceeding
                 performance targets. The ability to resolve complex problem with creative ideas. Bringing deep understanding of Modern HTML, JavaScript, CSS and React as well as intermediate knowledge in NodeJS, and MongoDB.
