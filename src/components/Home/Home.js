@@ -6,7 +6,7 @@ import homeLogo from "../../Assets/profile1.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import pdf from "../../Assets/jubayer.pdf";
+import pdf from "../../Assets/jubayer_al_alam.pdf";
 
 function Home() {
   return (
