@@ -48,8 +48,13 @@ function Projects() {
                   <br/>
                   <p>Technology:</p>
                   <small>JavaScript (React), HTML, CSS, Node, Bootstrap, React router, Firebase, Heroku, MongoDB </small>
+                  <br/>
+                  <br/>
+                  <br/>
                 </div>
+                
               }
+              
               gitLink="https://github.com/Jubayer777/Plumb-perfect-client"
               liveLink="https://nifty-mccarthy-b614ee.netlify.app/"
             />
@@ -76,6 +81,10 @@ function Projects() {
                   </ol>
                   <p>Technology:</p>
                   <small>JavaScript (React), HTML, CSS, Node, Bootstrap, React router, Firebase, Heroku, MongoDB </small>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
                 </div>
               }
               gitLink="https://github.com/Jubayer777/Sunrise-mart-client"
@@ -157,6 +166,10 @@ function Projects() {
                 <br/>
                 <p>Technology:</p>
                 <small>JavaScript, HTML, CSS, Bootstrap</small>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
               </div>
             }
             gitLink="https://github.com/Jubayer777/hungry-monster"
