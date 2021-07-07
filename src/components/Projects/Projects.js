@@ -11,8 +11,9 @@ import sunrise from "../../Assets/Projects/sunrise.png";
 import fantasyGames from "../../Assets/Projects/fantasy.png";
 import cityTravels from "../../Assets/Projects/city-travels.png";
 import hungryMonster from "../../Assets/Projects/hungrymonster.png";
-import algo from "../../Assets/Projects/algo.png";
-import plant from "../../Assets/Projects/plant.jpeg";
+import arrayLogo from "../../Assets/Projects/arrayLogo.jpeg";
+import blockBindings from "../../Assets/Projects/block-bindings.png";
+import reactFundamental from "../../Assets/Projects/reactFandamental.png";
 
 function Projects() {
   return (
@@ -56,7 +57,7 @@ function Projects() {
               }
               
               gitLink="https://github.com/Jubayer777/Plumb-perfect-client"
-              liveLink="https://nifty-mccarthy-b614ee.netlify.app/"
+              liveLink="https://plumb-perfect.netlify.app/"
             />
           </Col>
 
@@ -88,7 +89,7 @@ function Projects() {
                 </div>
               }
               gitLink="https://github.com/Jubayer777/Sunrise-mart-client"
-              liveLink="https://elegant-hermann-648410.netlify.app/"
+              liveLink="https://sunrise-mart.netlify.app/"
             />
           </Col>
 
@@ -117,7 +118,7 @@ function Projects() {
             </div>
           }
           gitLink="https://github.com/Jubayer777/Fantasy-games"
-          liveLink="https://angry-keller-23c24d.netlify.app/"
+          liveLink="https://fantasy-games.netlify.app/"
             />
           </Col>
 
@@ -143,7 +144,7 @@ function Projects() {
               </div>
             }
             gitLink="https://github.com/Jubayer777/city-travels"
-            liveLink="https://practical-fermat-71b3ba.netlify.app/"
+            liveLink="https://city-travel.netlify.app/"
             />
           </Col>
 
@@ -184,17 +185,25 @@ function Projects() {
         <Row style={{ justifyContent: "center" }}>
           <Col md={4} className="blog-card">
             <BlogCard
-              imgPath={algo}
-              link=""
-              title="Cracking Interview"
-              site="gitbook.com"
+              imgPath={arrayLogo}
+              link="https://jubayeralmahmud24.medium.com/a-brief-note-on-javascript-array-acce885ba5de"
+              title="A Brief Note on JavaScript Array"
+              site="medium.com"
             />
           </Col>
           <Col md={4} className="blog-card">
             <BlogCard
-              imgPath={plant}
-              link="https://medium.com/jovianml/plant-ai-c8fc95ed90e6"
-              title="Plant AI"
+              imgPath={blockBindings}
+              link="https://jubayeralmahmud24.medium.com/a-glance-at-javascript-block-bindings-aa602f0c7777"
+              title="A glance at JavaScript Block Bindings"
+              site="medium.com"
+            />
+          </Col>
+          <Col md={4} className="blog-card">
+            <BlogCard
+              imgPath={reactFundamental}
+              link="https://jubayeralmahmud24.medium.com/things-you-need-to-know-about-react-js-d9df345b9bee"
+              title="Things you need to know about React js"
               site="medium.com"
             />
           </Col>

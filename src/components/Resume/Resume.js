@@ -49,8 +49,8 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="BSC in Computer Science and Engineering [ International University of Business Agriculture and Technology (IUBAT), Uttara, Dhaka, Bangladesh ]"
-              date="2017 - Present"
-              content={[`CGPA: 3.86 / 4.00`]}
+              date="2017 - 2021"
+              content={[`CGPA: 3.87 / 4.00`]}
             />
             <Resumecontent
               title="Higher Secondary Certificate (HSC) [Ideal College, Dhanmondi, Dhaka, bangladesh]"
